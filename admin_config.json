@@ -1,0 +1,18 @@
+{
+  "affiliates": {
+    "hostinger": "https://www.hostinger.com/domain-name-search?domain={domain}&affulate_id=domaincraft",
+    "namecheap": "https://www.namecheap.com/domains/registration/results/?domain={domain}&aff=yourlink_id",
+    "bluehost": "https://www.bluehost.com/registration?flow=domainonly&domain={domain}&utm_medium=affiliate_id",
+    "godaddy": "https://www.godaddy.com/domainsearch/find?domainToCheck={domain}&key=affiliate_id",
+    "hostgator": "https://www.hostgator.com/domains?search={domain}&shared_aff=true&id=aff_id",
+    "domaincom": "https://www.domain.com/registration/?search={domain}&utm_source=affiliate_id"
+  },
+  "adsense": {
+    "enabled": true,
+    "clientId": "ca-pub-1234567890123456",
+    "slotTop": "<div class=\"bg-indigo-950/40 border border-indigo-500/20 p-4 rounded-3xl text-center text-xs sm:text-sm text-gray-300 max-w-3xl mx-auto flex items-center justify-between gap-4\"><div>🚀 <span class=\"font-black text-indigo-400\">عرض خاص من هوستنجر:</span> احصل على خصم إضافي واستضافة سريعة لمشروعك الجديد!</div><a href=\"https://www.hostinger.com\" target=\"_blank\" class=\"bg-indigo-600 hover:bg-indigo-550 text-white font-bold text-xs py-1.5 px-3 rounded-lg\">احجز الآن</a></div>",
+    "slotSidebar": "<div class=\"bg-purple-950/30 border border-purple-500/20 p-4 rounded-3xl text-center text-xs text-gray-400 space-y-2\"><p class=\"font-bold text-purple-300\">🎯 إشهار لعلامتك التجارية</p><p class=\"text-[10px] text-gray-550\">هل تبحث عن خدمات تصميم الهوية البصرية أو الشعار لاسم النطاق الجديد؟ تواصل معنا اليوم!</p></div>",
+    "slotResults": "<div class=\"bg-blue-900/10 border border-blue-500/10 hover:border-indigo-500/30 p-5 rounded-3xl text-center text-xs text-gray-300 col-span-full transition-all duration-300 flex flex-col items-center justify-center space-y-2\"><div class=\"text-[9px] bg-indigo-500/10 text-indigo-300 px-2 py-0.5 rounded border border-indigo-500/20 font-bold uppercase tracking-wider\">إعلان ممول / Sponsored Partner</div><p class=\"font-bold text-white text-sm\">وفر حتى 70% من مصاريف الاستضافة السنوية</p><p class=\"text-gray-450 text-[11px] max-w-lg\">شركاؤنا يقدمون دومين مجاني وشهادة SSL لحماية موقعك مع سيرفرات فائقة السرعة للمستخدمين العرب.</p></div>"
+  },
+  "adminPassword": "admin"
+}

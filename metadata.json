@@ -1,0 +1,6 @@
+{
+  "name": "مبتكر النطاقات - Domain Name Generator",
+  "description": "منصة ذكية مدعومة بالذكاء الاصطناعي (Gemini) لتوليد واقتراح أسماء نطاقات مميزة وجذابة لمشروعك التجاري أو التقني مع فحص مدى ملاءمتها وحفظ المفضلة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
